@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m Fenneig
+- 👀 I’m interested in videogames
+- 🌱 I’m currently learning unity and c#
+- 📫 How to reach me: koie.dubna@gmail.com / discord Fenneig#0842
 
 <!--
 **Fenneig/Fenneig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
