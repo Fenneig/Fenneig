@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Fenneig
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning unity and c#
 - 📫 How to reach me: koie.dubna@gmail.com / discord Fenneig#0842
 
 <!--
