@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fenneig
 - 👀 I’m interested in videogames
-- 📫 How to reach me: koie.dubna@gmail.com / discord Fenneig#0842
+- 📫 How to reach me: koie.dubna@gmail.com / discord Fenneig#0842 / TG: Fenneig
 
 <!--
 **Fenneig/Fenneig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
